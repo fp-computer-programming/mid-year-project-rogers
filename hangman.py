@@ -20,7 +20,7 @@ HANGMAN - Vegetables
       |
       |
       |
-=========''', """
+=========''', '''
 HANGMAN - Vegetables 
 
   -----
@@ -29,7 +29,7 @@ HANGMAN - Vegetables
   |   |
       |
       |
-=========""", """
+=========''', '''
 HANGMAN - Vegetables 
 
   -----
@@ -38,7 +38,7 @@ HANGMAN - Vegetables
  /|   |
       |
       |
-=========""", """
+=========''', '''
 HANGMAN - Vegetables 
 
   -----
@@ -47,7 +47,7 @@ HANGMAN - Vegetables
  /|\  |
       |
       |
-=========""", """
+=========''', '''
 HANGMAN - Vegetables  
 
   -----
@@ -56,7 +56,7 @@ HANGMAN - Vegetables
  /|\  |
  /    |
       |
-=========""", """
+=========''', '''
 HANGMAN - Vegetables 
 
   -----
@@ -65,7 +65,7 @@ HANGMAN - Vegetables
  /|\  |
  / \  |
       |
-========="""]
+=========''']
 # Defining the first function which will be the vegetable list.
 def random_vegi():
 # Words from the vegetable list to choose from    
